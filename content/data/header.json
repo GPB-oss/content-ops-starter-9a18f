@@ -8,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/rangle-logo.svg"
     },
     "primaryLinks": [
         {
